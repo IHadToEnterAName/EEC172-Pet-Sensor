@@ -37,6 +37,16 @@ over time, so the user can understand their pet friend more.
 7. HX711 ADC (uses GPIO connection)
 8. Inbuilt accelerometer in the CC3200 (uses I<sup>2</sup>C)
 
+## Used Sources
+
+https://github.com/sal0w/CC3200-Ultrasonic-sensor-HC-Sr04
+
+https://github.com/gregelectric/oob
+
+EEC172 libraries for Lab2 - Lab4.
+
+product description for: https://www.amazon.com/dp/B0716C8JM9?ref=ppx_yo2ov_dt_b_product_details&th=1
+
 
 ## Project Creators
 
