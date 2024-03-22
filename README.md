@@ -12,13 +12,17 @@ over time, so the user can understand their pet friend more.
 
 <u>***The code is divided into these parts:***</u>
 
-    1. Senses whether the pet is there or not and sends a message through AWS whether it is eating or stopped eating based on that.
+    1. Senses whether the pet is there or not and sends a message through AWS
+    whether it is eating or stopped eating based on that.
 
-    2. Senses whenever the food bowl is empty or near empty so it can send a message through AWS for the user to refill its food.
+    2. Senses whenever the food bowl is empty or near empty so it can send a message
+    through AWS for the user to refill its food.
 
-    3. Detects whether the pet has not eaten in a long time either through change of code or AI.
+    3. Detects whether the pet has not eaten in a long time either through change of
+    code or AI.
 
-    4. Checks whether the device has been flipped by the pet requiring user assistance ASAP.
+    4. Checks whether the device has been flipped by the pet requiring user
+    assistance ASAP.
 
     5. Display the Weight %'s into the OLED device.
 
